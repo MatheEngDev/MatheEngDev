@@ -20,7 +20,7 @@
   <pObtenha estatísticas do GitHub geradas dinamicamente para seus arquivos README!p>
 </div> -->
 
-## 🌐 estou por aqui
+## 🌐 estou por aqui 📍
 
 <div> 
   <a href="https://www.linkedin.com/in/matheusveras07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
