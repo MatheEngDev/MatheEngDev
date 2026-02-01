@@ -14,14 +14,14 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
   -->
   
-</div>
+<!-- </div>
 
 
 <div alinhar="centro">
   <imagem src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" largura="100px" alt="Estatísticas do arquivo README do GitHub"/>
   <h1 estilo="tamanho da fonte:28px;margem:10px 0;">Estatísticas do arquivo README do GitHub</h1>
   <pObtenha estatísticas do GitHub geradas dinamicamente para seus arquivos README!p>
-</div>
+</div> -->
 
 
 
