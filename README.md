@@ -1,5 +1,8 @@
 ## 👋 bem vindo, me chamo Matheus
 
+Cursando engenharia de software e buscando evoluir minhas habilidades na programação
+
+
 <!-- `🤖LINGUAGENS E TECNOLOGIAS`
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
