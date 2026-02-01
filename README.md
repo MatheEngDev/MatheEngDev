@@ -38,12 +38,10 @@
 
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MatheEngDev">
+    <img src="https://img.shields.io/badge/GitHub-MatheEngDev-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/matheus_illidan">
-    <img src="https://img.shields.io/badge/Instagram-@matheus_illidan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
 </p>
 
 ### Backend
