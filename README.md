@@ -20,7 +20,7 @@
   <pObtenha estatísticas do GitHub geradas dinamicamente para seus arquivos README!p>
 </div> -->
 
-## 🌐 Where to find me
+## 🌐 estou por aqui
 
 <div> 
   <a href="https://www.linkedin.com/in/matheusveras07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -44,6 +44,16 @@
 ![docker](https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker)
 
 ---
+
+<!-- ### frontEnd
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![fastify](https://img.shields.io/badge/fastify-512BD4?style=for-the-badge&logo=fastify)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript)
+![postgreSQL](https://img.shields.io/badge/postgreSQL-2D3748?style=for-the-badge&logo=postgreSQL)
+![docker](https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker) -->
+
 
 
 <!-- ## 🧠 What I do
