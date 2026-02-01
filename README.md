@@ -24,6 +24,7 @@
 </div> -->
 
 
+## 🌐 Where to find me
 
 
 <div> 
@@ -33,29 +34,15 @@
 
 
 
- 📊 Estatística
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheEngDev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheEngDev&layout=compact&theme=tokyonight" />
-</p>
 
 
-
-## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/herbertcarnaubadesouza">
     <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://instagram.com/matheus_illidan">
+    <img src="https://img.shields.io/badge/Instagram-@matheus_illidan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
