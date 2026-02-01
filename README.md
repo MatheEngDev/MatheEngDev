@@ -48,7 +48,7 @@
 
 ---
 
-## 🧠 What I do
+<!-- ## 🧠 What I do
 
 - 🏗️ SaaS & High-scale systems
 - ⚡ Performance optimization
@@ -59,4 +59,4 @@
 - 📊 Dashboards & analytics
 - 🎓 Teaching & mentoring developers
 
----
+--- -->
