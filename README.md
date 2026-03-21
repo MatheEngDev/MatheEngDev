@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="left">STACKS</h1>
+<h1 align="left">Stacks</h1>
 
 ###
 
@@ -54,11 +54,25 @@
 
 ###
 
+<h3 align="left">NUVEM</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+</div>
+
+###
+
 <h1 align="left">Estatísticas do GitHub🪜</h1>
 
 ###
 
-<h1 align="left">PROJETOS 🚀</h1>
+<h1 align="left">Projetos 🚀</h1>
 
 ###
 
