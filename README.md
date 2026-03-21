@@ -1,73 +1,114 @@
-## 👋 bem vindo, me chamo Matheus
+<br clear="both">
 
-Cursando engenharia de software e buscando evoluir minhas habilidades na programação
+<h1 align="left">salve👋, eu sou o chamo matheus</h1>
 
+###
 
-<!-- `🤖LINGUAGENS E TECNOLOGIAS`
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
-  -->
+<h2 align="left">😎 sobre mim</h2>
 
-<!-- </div>
+###
 
+<h3 align="left">atualmente eu sou consultor de campanha na notrevision.<br><br><br>sou estudande de engenharia de software - universidade cidade de são paulo unicid</h3>
 
-<div alinhar="centro">
-  <imagem src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" largura="100px" alt="Estatísticas do arquivo README do GitHub"/>
-  <h1 estilo="tamanho da fonte:28px;margem:10px 0;">Estatísticas do arquivo README do GitHub</h1>
-  <pObtenha estatísticas do GitHub geradas dinamicamente para seus arquivos README!p>
-</div> -->
+###
 
-## 🌐 estou por aqui 📍
+<h1 align="left">STACKS</h1>
 
-<div> 
-  <a href="https://www.linkedin.com/in/matheusveras07" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/matheus_illidan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/MatheEngDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+###
+
+<h3 align="left">BACK END E FERRAMENTAS</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">DADOS</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="30" alt="fastapi logo"  />
+</div>
+
+###
+
+<h1 align="left">Estatísticas do GitHub🪜</h1>
+
+###
+
+<h1 align="left">PROJETOS 🚀</h1>
+
+###
+
+<h4 align="left">EU desenvolvi um projeto pessoal para academias e controle de acessos.<br><br>stacks usadas : node.js - typescript - prisma - postgresSQL<br><br>• controle de acesso limitado<br>• preventiva de acesso duplicado<br>• fluxo de entrada ordenada<br>• academias próximas<br>• novos cadastros usuário/academia</h4>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheEngDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MatheEngDev&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheEngDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="20" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">🌐 Estou por aqui 📍</h1>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://discordapp.com/users/USERIDillidan#6303" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/matheus_illidan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/MatheVrs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
+###
 
-  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MatheEngDev.MatheEngDev&left_color=darkmagenta&right_color=darkslateblue&left_text=CURIOSOS"  />
+</div>
 
-</p>
+###
 
-### Backend
+<br clear="both">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![fastify](https://img.shields.io/badge/fastify-512BD4?style=for-the-badge&logo=fastify)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript)
-![postgreSQL](https://img.shields.io/badge/postgreSQL-2D3748?style=for-the-badge&logo=postgreSQL)
-![docker](https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker)
+<h2 align="center">while ( ! ( successes = try ( ) ) ) :</h2>
 
----
-
-<!-- ### frontEnd
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![fastify](https://img.shields.io/badge/fastify-512BD4?style=for-the-badge&logo=fastify)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-4479A1?style=for-the-badge&logo=TypeScript)
-![postgreSQL](https://img.shields.io/badge/postgreSQL-2D3748?style=for-the-badge&logo=postgreSQL)
-![docker](https://img.shields.io/badge/docker-4479A1?style=for-the-badge&logo=docker) -->
-
-
-
-<!-- ## 🧠 What I do
-
-- 🏗️ SaaS & High-scale systems
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🔐 Secure APIs & authentication
-- 💳 Payments, subscriptions & business logic
-- 🤖 Automation & integrations
-- 📊 Dashboards & analytics
-- 🎓 Teaching & mentoring developers
-
---- -->
+###
