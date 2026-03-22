@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">Cloud</h3>
+<h3 align="left">CLOUD</h3>
 
 ###
 
