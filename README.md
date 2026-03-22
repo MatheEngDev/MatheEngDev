@@ -68,9 +68,9 @@
 
 ###
 
-<h1 align="left">Estatísticas do GitHub🪜</h1>
 
-###
+
+
 
 <h1 align="left">Projetos 🚀</h1>
 
@@ -81,6 +81,10 @@
 ###
 
 <h1 align="left"></h1>
+
+###
+
+<h1 align="left">Estatísticas do GitHub🪜</h1>
 
 ###
 
