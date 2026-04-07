@@ -101,9 +101,9 @@
 <h1 align="center">🌐 Estou por aqui 📍</h1>
 
 ###
-
+<!-- AQUI FICA MINHAS REDES SOCIAIS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheusveras07" target="_blank">
+  <a href="https://www.linkedin.com/in/mathveras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/USERIDillidan#6303" target="_blank">
